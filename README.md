@@ -1,3 +1,6 @@
+This fork modifies the repo to extend the visiblity of functions for library runtime linking
+---
+
 Libcbdetect
 ---
 - Unofficial implemention of [libcbdetect](http://www.cvlibs.net/software/libcbdetect/) in C++.  
